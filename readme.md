@@ -67,7 +67,8 @@ Reasoning behind your technical choices
     programmer can add more answer options dynamically in the form itself. I also used the same concept for the questions as well. 
 
 Describe how you would deploy this as a true production app on the platform of your choice:
-    
+
+
     How would ensure the application is highly available and performs well?
         I would have multiple people use the product in different regions to see if the program runs well. 
 
