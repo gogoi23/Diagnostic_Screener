@@ -49,6 +49,7 @@ Instrucions:
     step 6: run npm start and go to http://localhost:3000  
 
 Description of the problem and solution
+    
     Problem:
         I was asked to build to build a service that would allow a patient 
         to take a special assesment which would ask them about their symptoms. Once 
@@ -60,11 +61,13 @@ Description of the problem and solution
         processes the assesment based on their symptoms and sends this assement back to the front end and the user can view their assesment as well as how their answers were scored. 
 
 Reasoning behind your technical choices
+    
     I tried to avoid hardcoding as much as possible to make the code more dynamic and easier to update. For example in the client side I did not implement the buttons for the answers
     on the html page. Instead I made the javascript in the client side iterate through all the questions sent from the back end and created a button in each iteration. This way the
     programmer can add more answer options dynamically in the form itself. I also used the same concept for the questions as well. 
 
 Describe how you would deploy this as a true production app on the platform of your choice:
+    
     How would ensure the application is highly available and performs well?
         I would have multiple people use the product in different regions to see if the program runs well. 
 
