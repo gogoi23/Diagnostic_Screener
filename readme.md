@@ -76,6 +76,7 @@ Describe how you would deploy this as a true production app on the platform of y
         I would add a lot of log statements that print out useful information such as the query string, user input, current scores, etc. 
 
 Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project
+    
     I hosted the website on an aws instance. However it is not fully functional. It stops responding after a while and I have to refresh it. If I had more time I would use a more 
     secure method of hosting the website. 
 
