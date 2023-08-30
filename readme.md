@@ -2,7 +2,8 @@ Notes: The code files that I spent the most time on making were index.js in publ
 
 Demo Video Link: https://youtu.be/b1QbsA2vVyM
 
-Link: http://18.188.14.253:3000
+Link: http://18.188.14.253:3000/
+    
     This link may not work. I have to refresh the server once in a while. If you want to acess the website and it does not work please contact me and I will refresh the server. 
 
 Instrucions: 
