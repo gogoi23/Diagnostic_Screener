@@ -3,9 +3,9 @@ Notes: The code files that I spent the most time on making were index.js in publ
 Demo Video Link: https://youtu.be/b1QbsA2vVyM
 
 Link: http://18.188.14.253:3000/
-    
-    This link may not work. I have to refresh the server once in a while. If you want to acess the website and it does not work please contact me and I will refresh the server. 
 
+    This link should be functional now.  Please contact me if it does not work.
+   
 Instrucions: 
     If you want to run it locally follow these instructions 
     
@@ -82,9 +82,6 @@ Describe how you would deploy this as a true production app on the platform of y
 
 Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project
     
-    I hosted the website on an aws instance. However it is not fully functional. It stops responding after a while and I have to refresh it. If I had more time I would use a more 
-    secure method of hosting the website. 
-
     One of the trade off I picked was choosing functionality and efficiency over asthetics. I would say that this application is easy to use and implements all the required features.
     However aesthetically it is very bare bones. If I had more time I would spend more time developing the css files. 
     
